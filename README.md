@@ -1,4 +1,4 @@
-#使用步骤
+# 使用步骤
 
  1、引入 <script src="http://g.tbcdn.cn/mtb/lib-flexible/0.3.4/??flexible_css.js,flexible.js"></script>
 
