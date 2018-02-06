@@ -1,6 +1,6 @@
 # 使用步骤
 
- 1、引入 <script src="http://g.tbcdn.cn/mtb/lib-flexible/0.3.4/??flexible_css.js,flexible.js"></script>
+ 1、引入手淘的开源库Flexible。
 
  2、1rem=75px  目前Flexible会将视觉稿分成100份   750/100=75
 
