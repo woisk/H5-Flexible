@@ -10,3 +10,7 @@
 
 
  # 友情提醒  640/750 设计图  都不用除以2
+ # 项目各种尺寸适配截图
+ ![](./imgs/iphone5.jpg "iphone5")
+ ![](./imgs/iphone6.jpg "iphone6")
+ ![](./imgs/iphone6plus.jpg "iphone6plus")
