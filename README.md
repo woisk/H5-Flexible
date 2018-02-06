@@ -9,8 +9,11 @@
  4、开始撸吧
 
 
- # 友情提醒  640/750 设计图  都不用除以2
+ 友情提醒  640/750 设计图  都不用除以2
  # 项目各种尺寸适配截图
+ iphone5.jpg
  ![](./imgs/iphone5.jpg "iphone5")
+ iphone6.jpg
  ![](./imgs/iphone6.jpg "iphone6")
+ iphone6plus.jpg
  ![](./imgs/iphone6plus.jpg "iphone6plus")
